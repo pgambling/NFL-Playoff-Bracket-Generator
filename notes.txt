@@ -1,0 +1,39 @@
+http://www.chiff.com/recreation/sports/NFL-brackets.htm
+
+Choose 11 spots
+wild card match ups and 1&2 seeds are fixed
+Update 2nd round selections based on wild card rounds
+1 seed plays highest number seed of wild card winners
+2 seed plays other wild card winner
+
+From Sai:
+Let me go over the playoff structure. Each conference has 6 seeds, and if the playoffs started on Sunday, they'd be: 
+
+AFC
+1. NE Patriots
+2. BAL Ravens
+3. HOU Texans (yay)
+4. DEN Broncos
+5. PIT Steelers
+6. CIN Bengals
+
+NFC
+1. GB Packers
+2. SF 49ers
+3. NO Saints
+4. NY Giants/DAL Cowboys (really, they should just leave this spot blank)
+5. DET Lions
+6. ATL Falcons
+
+THESE ARE SUBJECT TO CHANGE. Only Houston and Green Bay have clinched their seed. 
+
+The 1 and 2 seeds get a bye in the wild card round. 3 plays 6, and 4 plays 5. 
+
+Then there's a little bit of quirkiness as the NFL doesn't have a fixed bracket. the 1 seed will play the highest seeded team, so either the 4, 5, or 6. Likewise, the 2 will play either the 3, 4, or 5. All this means is that when you pick the two teams you expect to make it to the AFC/NFC championship games, make sure they won't already be playing each other in the previous round in your scenario. 
+
+From then on out, it's all vanilla.
+
+Email submission to Sai:
+CSV
+"afc wild card 1 (bengals @ texans), afc wild card 2, afc divisional 1 (x @ patriots), afc divisional 2, afc championship game, nfc wild card 1 (lions @ saints), nfc wild card 2, nfc divisional 1 (x @ packers), nfc divisional 2, nfc championship game, superbowl, score" 9:07
+so like "Texans, Broncos, Patriots, Ravens, Patriots, Saints, Giants, Packers, 49ers, Packers, Packers, 150-135"

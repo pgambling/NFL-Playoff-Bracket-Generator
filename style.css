@@ -1,0 +1,13 @@
+table {
+	border-collapse: collapse;
+}
+
+td {
+	border: solid black 1px;
+}
+
+#sendToBookie {
+	font-size: x-large;
+	font-weight: bold;
+	margin: 1em;
+}
