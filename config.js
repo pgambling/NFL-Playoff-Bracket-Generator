@@ -1,5 +1,5 @@
 var config = {
-	bookieEmail : "saitheguy@gmail.com",
+	bookieEmail : "ENTER EMAIL HERE",
 	emailSubject : "NFL Playoff Pool Submission",
 	afc_seeds : {
 		1: "NE Patriots",
